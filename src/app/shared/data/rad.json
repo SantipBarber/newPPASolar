@@ -1,0 +1,3226 @@
+{
+    "ÁLAVA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.088",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "2.8388",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.10156667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "4.419",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "4.99626667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "5.48433333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "5.93586667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "5.68266667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "4.96733333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "3.5014",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.28753333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "1.81153333",
+            "n_dias": "31"
+        }
+    ],
+    "ALBACETE": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.360734",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.108252",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.400516",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.704348",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.001008",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.576724",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.884794",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.623668",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.162378",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.796438",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.652178",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.956494",
+            "n_dias": "31"
+        }
+    ],
+    "ALICANTE": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.64866667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.57433333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.49333333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.70266667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.222",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.58233333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.80866667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.451",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.019",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "5.15233333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "4.06733333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.37266667",
+            "n_dias": "31"
+        }
+    ],
+    "ALMERÍA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.6378",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.41633333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.5535",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.9036",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.34893333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.66533333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.9428",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.762",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.2056",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "5.2446",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "4.08606667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.41226667",
+            "n_dias": "31"
+        }
+    ],
+    "ASTURIAS": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.38233333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "2.85933333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.198",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "4.39233333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "4.495",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "4.932",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "4.899",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "4.64666667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "4.478",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "3.36833333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.439",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.028",
+            "n_dias": "31"
+        }
+    ],
+    "ÁVILA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.65206667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.53113333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.9095",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.3596",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.68226667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.25666667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "7.1564",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "7.335",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.20686667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.35423333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.95073333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.25333333",
+            "n_dias": "31"
+        }
+    ],
+    "BADAJOZ": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.350655",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.81051",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.46579",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.53707",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.357285",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.670125",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.9993",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.85674",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.993955",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.820805",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.595185",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.74329",
+            "n_dias": "31"
+        }
+    ],
+    "BALEARES": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.06433333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.785",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.90333333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.15733333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.894",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.20666667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.48366667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.12233333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.41066667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.533",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.51",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.848",
+            "n_dias": "31"
+        }
+    ],
+    "BARCELONA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.9885",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.73017778",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.87135556",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.46358519",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.84396667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.22554815",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.4086",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.08191852",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.40812222",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.27248148",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.19616296",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.80213333",
+            "n_dias": "31"
+        }
+    ],
+    "BURGOS": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.2348",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.0825",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.470625",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "4.937625",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.463",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.09675",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.41995",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.24075",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.68205",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "3.969675",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.8469",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "1.942",
+            "n_dias": "31"
+        }
+    ],
+    "CÁCERES": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.168495",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.87288",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.36778",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.500935",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.039495",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.46965",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.980985",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.989895",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.156315",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.765365",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.64914",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.94129",
+            "n_dias": "31"
+        }
+    ],
+    "CÁDIZ": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.64631867",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.19740533",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.58988733",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.94128267",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.57116133",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.82439333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "7.11395067",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.93480667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.37228667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "5.380886",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.94629667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.22472267",
+            "n_dias": "31"
+        }
+    ],
+    "CANTABRIA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.16366667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "2.68533333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.154",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "4.473",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "4.77166667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "5.163",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "5.3",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "4.87133333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "4.64166667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "3.4",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.29666667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "1.936",
+            "n_dias": "31"
+        }
+    ],
+    "CASTELLÓN": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.259",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.174",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.091",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.27466667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.856",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.028",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.387",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "5.88333333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.487",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.82166667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.53833333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.14133333",
+            "n_dias": "31"
+        }
+    ],
+    "CEUTA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.35596667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.32426667",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.843",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "6.2152",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.57713333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "7.05783333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "7.28493333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "7.11883333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.207",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "5.1542",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "4.09153333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.24706667",
+            "n_dias": "31"
+        }
+    ],
+    "CIUDAD REAL": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.23764333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.886178",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.48001733",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.60710867",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.14129467",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.37971667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.798548",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.71002",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.128552",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.80197333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.71046333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.920418",
+            "n_dias": "31"
+        }
+    ],
+    "CÓRDOBA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.44045",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.982815",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.43571",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.362345",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.175055",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.618595",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "7.001165",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.68995",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.167685",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.87693",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.593545",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.066925",
+            "n_dias": "31"
+        }
+    ],
+    "CUENCA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.14893333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.60546667",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.10476667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.1526",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.80516667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.29453333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.87273333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.39876667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.95133333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.6634",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.024",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.57246667",
+            "n_dias": "31"
+        }
+    ],
+    "GIRONA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.98416667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.7046963",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.82668889",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.37325185",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.72663333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.11965926",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.33826667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "5.95684444",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.26334444",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.13466667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.10905185",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.76857778",
+            "n_dias": "31"
+        }
+    ],
+    "GRANADA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.60633333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.21566667",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.36333333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.45133333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.15633333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.59066667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.89",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.61833333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.08133333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "5.023",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.90033333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.208",
+            "n_dias": "31"
+        }
+    ],
+    "GUADALAJARA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.00533333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.03335333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.37726",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.34982",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.73332667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.41050667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.79466667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.63198667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.73038667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.52008667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.24739333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.53950667",
+            "n_dias": "31"
+        }
+    ],
+    "GIPÚZCOA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.25375",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "2.8265",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "3.95925",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "4.168",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "4.637",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "4.93375",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "5.01825",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "4.7035",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "4.4535",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "3.5555",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.42125",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.04975",
+            "n_dias": "31"
+        }
+    ],
+    "HUELVA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.6185",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.329",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.518",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.6905",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.465",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.529",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "7.0615",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.9555",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.502",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "5.4295",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.8445",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.394",
+            "n_dias": "31"
+        }
+    ],
+    "HUESCA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.84666667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.64992593",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.83588889",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.31792593",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.47255556",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "5.88137037",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.17281481",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "5.87940741",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.55562963",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.24207407",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.23340741",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.57459259",
+            "n_dias": "31"
+        }
+    ],
+    "JAÉN": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.28833333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.1183",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.38066667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.611",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.40646667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.784",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "7.13233333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.70906667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.67833333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.65333333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.42153333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.94026667",
+            "n_dias": "31"
+        }
+    ],
+    "LA CORUÑA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.286",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "2.9365",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.7135",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "4.369",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "4.7425",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "5.4815",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "5.466",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "5.324",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "4.4345",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "3.399",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.355",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "1.886",
+            "n_dias": "31"
+        }
+    ],
+    "LA RIOJA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.60033333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.59033333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.03666667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.06333333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.44",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "5.875",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.23266667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.00666667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.29766667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.017",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.837",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.31066667",
+            "n_dias": "31"
+        }
+    ],
+    "LAS PALMAS": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.9799444",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.73157945",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.5241596",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.56577703",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.68299835",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "5.63230442",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.04407497",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.1076777",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.79874053",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.91879067",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "4.2129079",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.78698473",
+            "n_dias": "31"
+        }
+    ],
+    "LEÓN": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.5119",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.25215",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.7204",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.02455",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.3691",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "5.993",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.4824",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.152",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.6391",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "3.964825",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.91825",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.0328",
+            "n_dias": "31"
+        }
+    ],
+    "LLEIDA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.48294444",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.60915278",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.26636111",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.57379444",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.95159444",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.26931111",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.50051111",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.16122222",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.4416",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.23904167",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.89006111",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.16039444",
+            "n_dias": "31"
+        }
+    ],
+    "LUGO": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.3642",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "2.92046667",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.53333333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "4.51733333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "4.9884",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "5.571",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "5.73323333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "5.6149",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "4.7518",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "3.456",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.40046667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "1.97233333",
+            "n_dias": "31"
+        }
+    ],
+    "MADRID": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.955",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.93133333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.097",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.628",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.18533333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.65533333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "7.16433333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.89633333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.947",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.57066667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.316",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.61433333",
+            "n_dias": "31"
+        }
+    ],
+    "MÁLAGA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.19133333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.1453",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.21266667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.542",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.31313333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.6876",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "7.1832",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.84833333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.10386667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.84166667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.67246667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.04863333",
+            "n_dias": "31"
+        }
+    ],
+    "MELILLA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.74586667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.51943333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.6687",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "6.2172",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.49493333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.714",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.92776667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.7216",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.18133333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "5.2428",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "4.3772",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.6785",
+            "n_dias": "31"
+        }
+    ],
+    "MURCIA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.96833333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.96633333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.56633333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.821",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.30933333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.629",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "7.02233333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.48233333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.90866667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "5.06866667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.95966667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.474",
+            "n_dias": "31"
+        }
+    ],
+    "NAVARRA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.19776667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.01613333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.196",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "4.697",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.05033333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "5.668",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "5.96796667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "5.64256667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.3024",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "3.81506667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.58233333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "1.97733333",
+            "n_dias": "31"
+        }
+    ],
+    "ORENSE": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.49666667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.1478",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.70433333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "4.58623333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.1318",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "5.919",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.0902",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "5.97533333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.0289",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "3.7088",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.49353333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.04006667",
+            "n_dias": "31"
+        }
+    ],
+    "PALENCIA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.33184541",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.4749715",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.71375597",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.28067899",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.62128336",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.06262323",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.63388367",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.43886833",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.75043058",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.23085766",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.81017095",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "1.97577431",
+            "n_dias": "31"
+        }
+    ],
+    "PONTEVEDRA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.66763987",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.3462106",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.85365373",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "4.9675857",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.5305728",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.21026667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.19725153",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.206633",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.22557603",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "3.93542617",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.73364047",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.17101673",
+            "n_dias": "31"
+        }
+    ],
+    "SALAMANCA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.62025",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.495925",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.895125",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.202775",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.79095",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.462375",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.9732",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.761725",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.8937",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.32845",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.0184",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.2163",
+            "n_dias": "31"
+        }
+    ],
+    "SEGOVIA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.44026667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.55966667",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.9066",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.48363333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.64113333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.31433333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.96426667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "7.154",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.04586667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.2703",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.72513333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.2696",
+            "n_dias": "31"
+        }
+    ],
+    "SEVILLA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.42633333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.88433333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.06366667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.57983333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.25633333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.69693333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "7.0566",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.81006667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.98776667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.68333333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.63926667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.85813333",
+            "n_dias": "31"
+        }
+    ],
+    "SORIA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.60746667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.42286667",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.63246667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.21916667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.65613333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.05233333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.62566667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.554",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.86393333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.32653333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "4.2362",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.46613333",
+            "n_dias": "31"
+        }
+    ],
+    "STA. CRUZ DE TENERIFE": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "4.0951",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.667633333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.792666667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "6.053266667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.728",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.679",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.795633333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.4236",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "6.346466667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "5.3188",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "4.068266667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.668733333",
+            "n_dias": "31"
+        }
+    ],
+    "TARRAGONA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.32051852",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "4.11644444",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.12303704",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.5267037",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.91803704",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.18922222",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.36662963",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.02611111",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.41648148",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.55322222",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.64740741",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "3.00918519",
+            "n_dias": "31"
+        }
+    ],
+    "TERUEL": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.22226667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.66766667",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.95606667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.22053333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.92983333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.3554",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.62716667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.17876667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.57433333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.50006667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.4067",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.93173333",
+            "n_dias": "31"
+        }
+    ],
+    "TOLEDO": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.03897413",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.61011627",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.1712024",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.382946",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.08782093",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.613348",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "7.12053533",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.6947724",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.99521867",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.61110427",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.21116013",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.58720507",
+            "n_dias": "31"
+        }
+    ],
+    "VALENCIA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "3.24",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.98666667",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "5.06966667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.49366667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.794",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.175",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.43433333",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.115",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.62233333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.66566667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.74233333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.89333333",
+            "n_dias": "31"
+        }
+    ],
+    "VALLADOLID": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.33685",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.3233",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.78505",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.16755",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.71345",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.27975",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.8195",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.62725",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.9163",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.202875",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.83225",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "1.8744",
+            "n_dias": "31"
+        }
+    ],
+    "VIZCAYA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.19475",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "2.709",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "3.87275",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "4.18775",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "4.70175",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "4.92825",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "5.04875",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "4.79925",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "4.4515",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "3.39275",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.34775",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "1.9475",
+            "n_dias": "31"
+        }
+    ],
+    "ZAMORA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.41589173",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.37410933",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.79011747",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.19252067",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "6.02493707",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.352308",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.77746853",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.70504667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.84133893",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.2106756",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "2.790116",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.02982027",
+            "n_dias": "31"
+        }
+    ],
+    "ZARAGOZA": [
+        {
+            "Mes": "Enero",
+            "Radiacion": "2.64746667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Febrero",
+            "Radiacion": "3.64733333",
+            "n_dias": "28"
+        },
+        {
+            "Mes": "Marzo",
+            "Radiacion": "4.9968",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Abril",
+            "Radiacion": "5.31466667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Mayo",
+            "Radiacion": "5.83746667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Junio",
+            "Radiacion": "6.26233333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Julio",
+            "Radiacion": "6.5308",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Agosto",
+            "Radiacion": "6.315",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Septiembre",
+            "Radiacion": "5.69203333",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Octubre",
+            "Radiacion": "4.33136667",
+            "n_dias": "31"
+        },
+        {
+            "Mes": "Noviembre",
+            "Radiacion": "3.03506667",
+            "n_dias": "30"
+        },
+        {
+            "Mes": "Diciembre",
+            "Radiacion": "2.45613333",
+            "n_dias": "31"
+        }
+    ]
+}

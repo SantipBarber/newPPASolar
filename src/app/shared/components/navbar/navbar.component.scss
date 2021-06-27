@@ -1,0 +1,19 @@
+// Small devices (down 576px )
+@media (max-width: 576px) {
+  .logo{
+    height: 2rem;
+  }
+
+  .navbar{
+    width: 100vw;
+    position: static;
+  }
+}
+
+
+.logo {
+  height: 2.5rem;
+  -webkit-box-shadow: 0.3rem 0.3rem 0.2rem 0 rgba(0,0,0,0.75);
+  -moz-box-shadow: 0.3rem 0.3rem 0.2rem 0 rgba(0,0,0,0.75);
+  box-shadow: 0.3rem 0.3rem 0.2rem 0 rgba(0,0,0,0.75);
+}

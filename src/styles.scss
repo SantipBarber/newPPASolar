@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootswatch/dist/minty/variables";
+@import "~bootstrap/scss/bootstrap";
+@import "~bootswatch/dist/minty/bootswatch";
+
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+@import "~animate.css/animate.min.css";
+@import '~animate.css/source/attention_seekers/bounce.css';
+@import '~animate.css/source/attention_seekers/flash.css';
+@import '~animate.css/source/attention_seekers/pulse.css';
+@import '~animate.css/source/attention_seekers/rubberBand.css';
+@import '~animate.css/source/attention_seekers/shake.css';
+@import '~animate.css/source/attention_seekers/headShake.css';
+@import '~animate.css/source/attention_seekers/swing.css';
+@import '~animate.css/source/attention_seekers/tada.css';
+@import '~animate.css/source/attention_seekers/wobble.css';
+@import '~animate.css/source/attention_seekers/jello.css';
+@import '~animate.css/source/attention_seekers/heartBeat.css';
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}

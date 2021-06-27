@@ -1,0 +1,50 @@
+[
+  {
+    "mes": "Enero",
+    "n_dias": 31
+  },
+  {
+    "mes": "Febrero",
+    "n_dias": 28
+  },
+  {
+    "mes": "Marzo",
+    "n_dias": 31
+  },
+  {
+    "mes": "Abril",
+    "n_dias": 30
+  },
+  {
+    "mes": "Mayo",
+    "n_dias": 31
+  },
+  {
+    "mes": "Junio",
+    "n_dias": 30
+  },
+  {
+    "mes": "Julio",
+    "n_dias": 31
+  },
+  {
+    "mes": "Agosto",
+    "n_dias": 31
+  },
+  {
+    "mes": "Septiembre",
+    "n_dias": 30
+  },
+  {
+    "mes": "Octubre",
+    "n_dias": 31
+  },
+  {
+    "mes": "Noviembre",
+    "n_dias": 30
+  },
+  {
+    "mes": "Diciembre",
+    "n_dias": 31
+  }
+]
