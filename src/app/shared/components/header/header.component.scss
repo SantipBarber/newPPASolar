@@ -1,0 +1,127 @@
+
+$color-green: rgba(136,181,174,1);
+
+@media (max-width: 576px) {
+  *{
+    /*outline: 1px solid red;*/
+
+  }
+  .img__header{
+    min-height: 100vh;
+  }
+
+
+  .main{
+    margin-top: 0 !important;
+  }
+
+  .alert__main{
+    margin: 0 !important;
+    font-size: 0.8em;
+  }
+
+  .slider{
+    display: none;
+  }
+
+  .img__header{
+    margin: 0;
+    height: 60vh;
+    min-width: 100vw;
+    background-image: url("/assets/img/amanecer.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+
+  .container__main{
+    min-height: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+  }
+
+  .bg__title{
+    border-radius:  unset !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
+    .title{
+      font-size: 2.1rem;
+    }
+
+  }
+
+  .btn__group__main{
+    width: 85%;
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .btn__main1{
+      width: 90%;
+      border-radius: 5px;
+
+    }
+    .btn__main2{
+      width: 90%;
+      border-radius: 5px;
+      margin-top: 1rem;
+    }
+  }
+
+  .container__title{
+    width: 100%;
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
+    border-radius: unset !important;
+  }
+
+
+
+}
+/*
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+
+}
+*/
+
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+.container__main{
+  width: 95%;
+  margin-bottom: 1rem;
+  max-height: 3rem;
+}
+
+.bg__title{
+  background-color: rgba(25, 25, 25, 0.4);
+  box-sizing: content-box;
+}
+
+.img__header{
+  height: 60vh;
+  background-image: url("/assets/img/amanecer.jpg");
+  background-position: center;
+  background-size: cover;
+}
