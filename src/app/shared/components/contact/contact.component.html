@@ -1,1 +1,81 @@
-<p>contact works!</p>
+<div class="row justify-content-center px-3">
+  <!--  Logo + cabecera del formulario-->
+  <div class="col-sm-12 d-flex flex-column align-items-center justify-content-center">
+    <img src="assets/img/logo.png" alt="" class="figure-img rounded-3 shadow-lg my-5" height="125">
+    <div class="h3 text-dark text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
+  </div>
+  <div class="col-sm-12 px-sm-5">
+    <form type="submit" class="mt-3" [formGroup]="contactForm">
+      <div class="form-row">
+        <!--     Línea 1 - Nombre-->
+        <div class="row justify-content-between mb-3">
+          <div class="form-group col-sm-4">
+            <label for="inputName" class="form-label">Nombre o persona de contacto:</label>
+            <input [class]="isValidField('name')" type="text" class="form-control" id="inputName"
+                   formControlName="name">
+            <div class="invalid-feedback">
+          <span *ngIf="contactForm.get('name')?.errors?.required">
+              Por favor, introduce tu nombre.
+          </span>
+            </div>
+          </div>
+          <!--     Línea 1 - Apellidos-->
+          <div class="form-group col-sm-8">
+            <label for="inputLastName" class="form-label">Apellidos o Empresa:</label>
+            <input type="text" class="form-control" id="inputLastName"
+                   formControlName="lastName" [class]="isValidField('lastName')">
+          </div>
+        </div>
+        <!--      Línea 2 - Email-->
+        <div class="form-group col-sm-12 mb-3">
+          <label for="inputEmail" class="form-label">Email:</label>
+          <input type="email" class="form-control" id="inputEmail"
+                 formControlName="email" [class]="isValidField('email')">
+          <div class="invalid-feedback">
+          <span *ngIf="contactForm.get('email')?.errors?.required">
+              Por favor, introduce un email.
+          </span>
+          </div>
+          <div class="invalid-feedback">
+          <span *ngIf="contactForm.get('email')?.errors?.pattern">
+              Por favor, introduce un email válido.
+          </span>
+          </div>
+        </div>
+        <!--      Línea 3 - Mensaje-->
+        <div class="form-group col-sm-12 mb-3">
+          <label for="inputMessage" class="form-label">Mensaje:</label>
+          <textarea name="message" rows="4" class="form-control"
+                    id="inputMessage" formControlName="message" [class]="isValidField('message')"></textarea>
+          <div class="invalid-feedback">
+          <span *ngIf="contactForm.get('message')?.errors?.required">
+              Por favor, introduce tu mensaje.
+          </span>
+          </div>
+          <div class="invalid-feedback">
+          <span *ngIf="contactForm.get('message')?.errors?.minLength">
+              Por favor, introduce al menos {{ contactForm.get('message')?.errors?.minLength }}
+            caracteres.
+          </span>
+          </div>
+          <div class="invalid-feedback">
+          <span *ngIf="contactForm.get('message')?.errors?.maxLength">
+              El mensaje es demasiado largo. Por favor, introduce como máximo {{ contactForm.get('message')?.errors?.maxLength }}
+            caracteres.
+          </span>
+          </div>
+        </div>
+        <!--      Línea 4 - Confirmar identidad o Políticas-->
+        <div class="mb-3 form-check">
+          <input type="checkbox" class="form-check-input" id="acceptUseRules" required>
+          <label class="form-check-label" for="acceptUseRules">Acepto las <a href="#" class="link-info">condiciones de uso</a>.</label>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block">Send</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+
+
+

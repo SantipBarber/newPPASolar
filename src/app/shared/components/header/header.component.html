@@ -1,76 +1,74 @@
-<div class="row min-vh-100">
-  <!-- Inicio Header -->
-  <div class="img__header d-flex flex-column justify-content-between">
-    <!-- Alert inicial de la interfaz -->
-    <div class="row">
-      <div
-        class="container vw-100 alert alert-primary alert-dismissible animate__animated animate__slideInUp fade show"
-        role="alert">
-        <div class="row">
-          <div class="col-1 d-flex align-items-center justify-content-end">
-            <i class="far fa-info-circle"></i>
-          </div>
-          <div class="col-10 text-center modal-dialog-top">
-            Un PPA es un sistema que te permite <strong>consumir energía verde</strong> - <strong>sin hacer ninguna
-            inversión.</strong>
-          </div>
-          <div class="col-1 d-flex align-items-center justify-content-end">
-            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-          </div>
+<!-- Inicio Header -->
+<div class="img__header d-flex flex-column justify-content-between">
+  <!-- Alert inicial de la interfaz -->
+  <div class="row vw-100 align-self-center">
+    <div
+      class="container alert alert-primary alert-dismissible animate__animated animate__slideInUp fade show"
+      role="alert">
+      <div class="row">
+        <div class="col-1 d-flex align-items-center justify-content-end">
+          <i class="far fa-info-circle"></i>
+        </div>
+        <div class="col-10 text-center modal-dialog-top">
+          Un PPA es un sistema que te permite <strong>consumir energía verde</strong> - <strong>sin hacer ninguna
+          inversión.</strong>
+        </div>
+        <div class="col-1 d-flex align-items-center justify-content-end">
+          <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         </div>
       </div>
     </div>
-    <!-- Fin alert -->
-    <!-- Imagen más botones -->
-    <div class="row">
-      <div
-        class="col-sm container__main align-self-center bg__title rounded-pill mx-sm-3 px-sm-3 py-3 mb-5 d-flex justify-content-center animate__animated animate__slideInDown">
-        <h1 class="text-secondary align-self-center text-center font-weight-bold title px-sm-3 w-100">¡El cambio no
-          puede
-          esperar!</h1>
-        <div class="btn-group btn__group__main mx-5 align-content-sm-end w-100" role="group">
-          <button type="button" role="link" class="btn btn-outline-secondary btn__main1" (click)="goToAbout()">
-            Saber más
-          </button>
-          <button type="button" role="link" class="btn btn-outline-secondary btn__main2"
-                  (click)="goToSimulator()">
-            Simulador
-          </button>
-        </div>
-      </div>
-    </div>
-    <!-- Fin Imagen + botones-->
   </div>
-  <!-- Fin Header -->
-  <div class="container-fluid min-vh-25 mb-lg-5">
-    <div class="row rounded-lg d-flex align-items-center justify-content-around">
-      <div
-        class="col-md-3 d-flex flex-column align-items-center justify-content-center box__header animate__animated animate__fadeInRight"
-      >
-        <h1 class="text-left h2 text-warning font-weight-bold mt-1">Zero Inversión</h1>
-        <i class="fal fa-comment-dollar text-success fa-10x align-self-center"></i>
+  <!-- Fin alert -->
+  <!-- Imagen más botones -->
+  <div class="row">
+    <div
+      class="col-sm container__main align-self-center bg__title rounded-pill mx-sm-3 px-sm-3 py-3 mb-5 d-flex justify-content-center animate__animated animate__slideInDown">
+      <h1 class="text-secondary align-self-center text-center font-weight-bold title px-sm-3 w-100">¡El cambio no
+        puede
+        esperar!</h1>
+      <div class="btn-group btn__group__main mx-5 align-content-sm-end w-100" role="group">
+        <a type="button" role="link" class="btn btn-outline-secondary btn__main1" [href]="['about']">
+          Saber más
+        </a>
+        <button type="button" role="link" class="btn btn-outline-secondary btn__main2"
+                (click)="goToSimulator()">
+          Simulador
+        </button>
       </div>
-      <div
-        class="py-3 animate__delay-1s col-md-1 align-self-center d-flex align-items-center justify-content-center box__header animate__animated animate__fadeInRight">
-        <i class="fas fa-plus fa-5x text-info"></i>
-      </div>
-      <div
-        class="animate__delay-1s col-md-3 d-flex flex-column align-items-center justify-content-center box__header animate__animated animate__fadeInRight"
-      >
-        <i class="fal fa-coins text-warning fa-10x align-self-center"></i>
-        <h1 class="text-right text-success h2 font-weight-bold mt-1">Máximo Ahorro</h1>
-      </div>
-      <div
-        class="py-3 animate__delay-2s col-md-1 my-0 align-self-center d-flex align-items-center justify-content-center box__header animate__animated animate__fadeInRight"
-      >
-        <i class="fas fa-equals fa-5x text-secondary"></i>
-      </div>
-      <div
-        class="py-5 animate__delay-2s col-md-3 d-flex flex-sm-column align-items-center justify-content-center animate__animated animate__fadeInRight"
-      >
-        <div class="display-3 text-danger fw-bold align-self-start mx-xl-5">PPA</div>
-        <div class="display-3 text-primary align-self-end mx-xl-5"><em>S☀️lar</em></div>
-      </div>
+    </div>
+  </div>
+  <!-- Fin Imagen + botones-->
+</div>
+<!-- Fin Header -->
+<div class="container-fluid min-vh-25 mb-lg-5">
+  <div class="row rounded-lg d-flex align-items-center justify-content-around">
+    <div
+      class="col-md-3 d-flex flex-column align-items-center justify-content-center box__header animate__animated animate__fadeInRight"
+    >
+      <h1 class="text-left h2 text-warning font-weight-bold mt-1">Zero Inversión</h1>
+      <i class="fal fa-comment-dollar text-success fa-10x align-self-center"></i>
+    </div>
+    <div
+      class="py-3 animate__delay-1s col-md-1 align-self-center d-flex align-items-center justify-content-center box__header animate__animated animate__fadeInRight">
+      <i class="fas fa-plus fa-5x text-info"></i>
+    </div>
+    <div
+      class="animate__delay-1s col-md-3 d-flex flex-column align-items-center justify-content-center box__header animate__animated animate__fadeInRight"
+    >
+      <i class="fal fa-coins text-warning fa-10x align-self-center"></i>
+      <h1 class="text-right text-success h2 font-weight-bold mt-1">Máximo Ahorro</h1>
+    </div>
+    <div
+      class="py-3 animate__delay-2s col-md-1 my-0 align-self-center d-flex align-items-center justify-content-center box__header animate__animated animate__fadeInRight"
+    >
+      <i class="fas fa-equals fa-5x text-secondary"></i>
+    </div>
+    <div
+      class="py-5 animate__delay-2s col-md-3 d-flex flex-sm-column align-items-center justify-content-center animate__animated animate__fadeInRight"
+    >
+      <div class="display-3 text-danger fw-bold align-self-start mx-xl-5">PPA</div>
+      <div class="display-3 text-primary align-self-end mx-xl-5"><em>S☀️lar</em></div>
     </div>
   </div>
 </div>

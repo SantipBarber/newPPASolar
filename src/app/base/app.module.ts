@@ -7,6 +7,10 @@ import {NavbarComponent} from "../shared/components/navbar/navbar.component";
 import {HeaderComponent} from "../shared/components/header/header.component";
 import {CarouselComponent} from "../shared/components/carousel/carousel.component";
 import {FooterComponent} from "../shared/components/footer/footer.component";
+import {AboutComponent} from "../shared/components/about/about.component";
+import {ContactComponent} from "../shared/components/contact/contact.component";
+import {ReactiveFormsModule} from "@angular/forms";
+import {HomeComponent} from "../shared/components/home/home.component";
 
 @NgModule({
   declarations: [
@@ -14,11 +18,15 @@ import {FooterComponent} from "../shared/components/footer/footer.component";
     NavbarComponent,
     HeaderComponent,
     CarouselComponent,
-    FooterComponent
+    FooterComponent,
+    AboutComponent,
+    ContactComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

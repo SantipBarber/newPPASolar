@@ -8,6 +8,7 @@ $color-green: rgba(136,181,174,1);
   }
   .img__header{
     min-height: 100vh;
+    max-width: 100%;
   }
 
 
@@ -27,7 +28,7 @@ $color-green: rgba(136,181,174,1);
   .img__header{
     margin: 0;
     height: 60vh;
-    min-width: 100vw;
+    width: 100vw;
     background-image: url("/assets/img/amanecer.jpg");
     background-position: center;
     background-size: cover;
@@ -66,7 +67,6 @@ $color-green: rgba(136,181,174,1);
     .btn__main1{
       width: 90%;
       border-radius: 5px;
-
     }
     .btn__main2{
       width: 90%;

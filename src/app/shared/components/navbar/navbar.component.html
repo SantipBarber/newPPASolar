@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" [href]="['home']">
       <img class="img-fluid logo rounded" src="/assets/img/logo.png">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -11,12 +11,17 @@
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">
-            Simulador
+          <a class="nav-link" [routerLinkActive]="['active']" [routerLink]="['home']" aria-current="page">
+            Home
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contacto</a>
+          <a class="nav-link" [routerLinkActive]="['active']" href="#about" aria-current="page">
+            Saber más
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" [routerLinkActive]="['active']" [routerLink]="['contact']">Contacto</a>
         </li>
       </ul>
     </div>

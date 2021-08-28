@@ -7,7 +7,7 @@ import sampleData from '../shared/data/data.json';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ppaSolar1';
+  title = 'PPA Solar';
   regionData: any = sampleData;
 
   ngOnInit(){
