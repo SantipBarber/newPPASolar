@@ -1,0 +1,71 @@
+
+$color-green: rgba(136,181,174,1);
+
+.bg-secondary-opacity-10 {
+  background-color: rgba(86, 204, 157, 0.4);
+}
+
+@media (max-width: 576px) {
+  *{
+    /*outline: 1px solid red;*/
+
+  }
+
+  .alert__main{
+    margin: 0 !important;
+    font-size: 0.8em;
+  }
+
+  .slider{
+    display: none;
+  }
+
+  .img__header{
+    margin: 0;
+    height: 60vh;
+    width: 100vw;
+    background-image: url("/assets/img/amanecer.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+}
+/*
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+
+}
+*/
+
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+.container__main{
+  width: 95%;
+  margin-bottom: 1rem;
+  max-height: 3rem;
+}
+
+.bg__title{
+  background-color: rgba(25, 25, 25, 0.4);
+  box-sizing: content-box;
+}
+
+.img__header{
+  height: 100vh;
+  background-image: url("/assets/img/amanecer.jpg");
+  background-position: center;
+  background-size: cover;
+}

@@ -28,13 +28,13 @@
         puede
         esperar!</h1>
       <div class="btn-group btn__group__main mx-5 align-content-sm-end w-100" role="group">
-        <a type="button" role="link" class="btn btn-outline-secondary btn__main1" [href]="['about']">
+        <a type="button" role="link" class="btn btn-outline-secondary btn__main1" href="#about">
           Saber más
         </a>
-        <button type="button" role="link" class="btn btn-outline-secondary btn__main2"
-                (click)="goToSimulator()">
+        <a type="link" role="link" class="btn btn-outline-secondary btn__main2"
+                [href]="['simulator']">
           Simulador
-        </button>
+        </a>
       </div>
     </div>
   </div>

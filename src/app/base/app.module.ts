@@ -11,6 +11,7 @@ import {AboutComponent} from "../shared/components/about/about.component";
 import {ContactComponent} from "../shared/components/contact/contact.component";
 import {ReactiveFormsModule} from "@angular/forms";
 import {HomeComponent} from "../shared/components/home/home.component";
+import {SimulatorComponent} from "../shared/components/simulator/simulator.component";
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import {HomeComponent} from "../shared/components/home/home.component";
     FooterComponent,
     AboutComponent,
     ContactComponent,
-    HomeComponent
+    HomeComponent,
+    SimulatorComponent
   ],
   imports: [
     BrowserModule,
