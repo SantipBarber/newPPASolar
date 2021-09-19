@@ -12,5 +12,5 @@ export interface Contact{
   providedIn: 'root'
 })
 export class DataService {
-
+  
 }
