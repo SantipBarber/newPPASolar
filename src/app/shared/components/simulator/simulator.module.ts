@@ -1,25 +1,28 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import * as echarts from 'echarts';
+import { NgxEchartsModule} from "ngx-echarts";
 
 import { SimulatorRoutingModule } from './simulator-routing.module';
 import { InputdataComponent } from './inputdata/inputdata.component';
-import {ContactComponent} from "./contact/contact.component";
-import {SimulatorComponent} from "./simulator.component";
-import {AboutComponent} from "../about/about.component";
 import {ReactiveFormsModule} from "@angular/forms";
+import {ContactComponent} from "./contact/contact.component";
+import { ChartComponent } from './chart/chart.component';
 
 
 @NgModule({
   declarations: [
-    SimulatorComponent,
     InputdataComponent,
-    //ContactComponent,
-    //AboutComponent
+    ContactComponent,
+    ChartComponent
   ],
   imports: [
     CommonModule,
     SimulatorRoutingModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    NgxEchartsModule.forRoot({
+      echarts
+    })
   ]
 })
 export class SimulatorModule { }

@@ -10,6 +10,8 @@ import {FooterComponent} from "../shared/components/footer/footer.component";
 import {AboutComponent} from "../shared/components/about/about.component";
 import {ReactiveFormsModule} from "@angular/forms";
 import {HomeComponent} from "../shared/components/home/home.component";
+import {SimulatorComponent} from "../shared/components/simulator/simulator.component";
+import {NgxEchartsModule} from "ngx-echarts";
 
 @NgModule({
   declarations: [
@@ -19,12 +21,14 @@ import {HomeComponent} from "../shared/components/home/home.component";
     CarouselComponent,
     FooterComponent,
     AboutComponent,
-    HomeComponent
+    HomeComponent,
+    SimulatorComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    NgxEchartsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
