@@ -6,6 +6,7 @@ export interface Contact{
   name: string;
   lastName?: string;
   email: string;
+  phone: string;
   id: string;
   message: string;
   area?: number;

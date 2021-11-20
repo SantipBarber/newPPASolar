@@ -26,20 +26,27 @@
                    formControlName="lastName" [class]="isValidField('lastName')">
           </div>
         </div>
-        <!--      Línea 2 - Email-->
-        <div class="form-group col-sm-12 mb-3">
-          <label for="inputEmail" class="form-label">Email:</label>
-          <input type="email" class="form-control" id="inputEmail"
-                 formControlName="email" [class]="isValidField('email')">
-          <div class="invalid-feedback">
+        <!--      Línea 2 - Email y Teléfono -->
+        <div class="row justify-content-between mb-3">
+          <div class="form-group col-sm-6 mb-3">
+            <label for="inputEmail" class="form-label">Email:</label>
+            <input type="email" class="form-control" id="inputEmail"
+                   formControlName="email" [class]="isValidField('email')">
+            <div class="invalid-feedback">
           <span *ngIf="contactForm.get('email')?.errors?.required">
               Por favor, introduce un email.
           </span>
-          </div>
-          <div class="invalid-feedback">
+            </div>
+            <div class="invalid-feedback">
           <span *ngIf="contactForm.get('email')?.errors?.pattern">
               Por favor, introduce un email válido.
           </span>
+            </div>
+          </div>
+          <div class="form-group col-sm-6 mb-3">
+            <label for="inputPhone" class="form-label">Teléfono (opcional):</label>
+            <input type="phone" class="form-control" id="inputPhone"
+                   formControlName="phone" [class]="isValidField('phone')">
           </div>
         </div>
         <!--      Línea 3 - Mensaje-->
@@ -66,18 +73,22 @@
           </div>
         </div>
         <!--      Línea 4 - Confirmar identidad o Políticas-->
-        <div class="mb-3 form-check">
+        <div class="my-4 form-check">
           <input [class]="isValidField('rules')"
                  type="checkbox"
                  class="form-check-input"
                  id="acceptUseRules"
                  formControlName="rules"
                  required>
-          <label class="form-check-label" for="acceptUseRules">Acepto las <a (click)="useRules()" class="text-decoration-underline">condiciones de
+          <label class="form-check-label" for="acceptUseRules">Acepto las <a (click)="useRules()"
+                                                                             class="text-decoration-underline">condiciones
+            de
             uso.</a></label>
         </div>
         <div class="d-grid gap-2 col-12 mx-auto">
-          <button [disabled]="!contactForm.valid" type="submit" class="btn btn-primary btn-block" (click)="onSave()">Send</button>
+          <button [disabled]="!contactForm.valid" type="submit" class="btn btn-primary btn-block" (click)="onSave()">
+            Solicitar información
+          </button>
         </div>
       </div>
     </form>

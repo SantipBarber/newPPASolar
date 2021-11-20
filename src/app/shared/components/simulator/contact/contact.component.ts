@@ -3,6 +3,7 @@ import {FormBuilder, FormControl, FormGroup, Validators} from '@angular/forms';
 import Swal from 'sweetalert2';
 import {DataService} from "./services/data.service";
 import {ActivatedRoute} from "@angular/router";
+import TERMS from '/src/app/shared/data/terms.json'
 
 @Component({
   selector: 'app-contact',
@@ -38,6 +39,7 @@ export class ContactComponent implements OnInit {
       name: new FormControl('', [Validators.required]),
       lastName: new FormControl('', Validators.required),
       email: new FormControl('', [Validators.required, Validators.pattern(this.isEmail)]),
+      phone: new FormControl('', Validators.required),
       message: ['', [Validators.required, Validators.minLength(10), Validators.maxLength(250)]],
       rules: ['', [Validators.requiredTrue]],
     })
@@ -62,7 +64,14 @@ export class ContactComponent implements OnInit {
   }
 
   useRules(){
-    Swal.fire('Oooops...', 'Please check the form data', 'error');
+    Swal.fire({
+        html : '<div style="text-align: justify">' + TERMS['terms']['html'] + '</div>',
+        icon : 'info',
+        width : '85%',
+        position : 'center',
+
+      }
+    )
   }
 
   isValidField(field: string): string {

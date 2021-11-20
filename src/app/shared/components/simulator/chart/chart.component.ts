@@ -1,13 +1,12 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute} from '@angular/router';
-import {EChartsOption, number} from 'echarts';
-import solarData from 'src/app/shared/data/rad.json'
-import {offset} from "@popperjs/core";
+import {EChartsOption} from 'echarts';
+import solarData from 'src/app/shared/data/rad.json';
 
 @Component({
   selector: 'app-chart',
   templateUrl: './chart.component.html',
-  styleUrls: ['./chart.component.scss']
+  styleUrls: ['./chart.component.scss'],
 })
 export class ChartComponent implements OnInit {
   /**
@@ -33,6 +32,11 @@ export class ChartComponent implements OnInit {
   progresionAhorro: number [] = [];
   year: number [] = [];
 
+  tcge: number = 0; // total cost of grid energy
+  tcppae: number = 0; // total cost of grid energy
+  totalTcge: number = 0;
+  totalTcppae: number = 0;
+  totalSave: number = 0;
 
   constructor(
     private route: ActivatedRoute,
@@ -53,12 +57,13 @@ export class ChartComponent implements OnInit {
     // Ahora obtenemos el Valor de ahorro anual
     this.ahorroAnual.toFixed(2)
     for (let rad of this.dataProvincia) {
-      let ahorro = (((
-          (rad['n_dias'] * rad['Radiacion'] * (usableArea) / panelsPerUnitArea)) * efficiency) * this.precioEnergiaRed)
-        -
-        (((((rad['n_dias'] * rad['Radiacion'] * (usableArea) / panelsPerUnitArea)) * efficiency) * this.precioEnergiaPPA));
+      let tcge = ((((rad['n_dias'] * rad['Radiacion'] * (usableArea) / panelsPerUnitArea)) * efficiency) * this.precioEnergiaRed);
+      let tcppae = ((((rad['n_dias'] * rad['Radiacion'] * (usableArea) / panelsPerUnitArea)) * efficiency) * this.precioEnergiaPPA);
+      let ahorro = (tcge - tcppae);
       this.radiacion.push(ahorro);
       this.ahorroAnual += ahorro;
+      this.tcge += tcge;
+      this.tcppae += tcppae;
     }
     // Obtenemos todos los meses en un array
     for (let month of this.dataProvincia) {
@@ -69,11 +74,19 @@ export class ChartComponent implements OnInit {
     for (let i = 0; i < 12; i++) {
       this.progresionAhorro.push(this.ahorroAnual);
       this.ahorroAnual *= this.IPC
+      this.tcge *= this.IPC
+      this.tcppae *= this.IPC
       let yearCalculated = i + 1;
       this.year.push(yearCalculated);
+      this.totalTcge += this.tcge;
+      this.totalTcppae += this.tcppae;
+      this.totalSave += this.ahorroAnual;
     }
-    console.log(this.ahorroAnual.toFixed(2))
-    console.log(this.progresionAhorro)
+    console.log(this.totalTcge)
+    console.log(this.totalTcppae)
+    console.log(this.totalSave)
+    //console.log(this.ahorroAnual.toFixed(2))
+    //console.log(this.progresionAhorro)
   }
 
   chartYear: EChartsOption = {
@@ -120,6 +133,7 @@ export class ChartComponent implements OnInit {
     },
     title: {
       text: 'Ahorro Total 12 años',
+      right: 0
     },
     xAxis: {
       type: 'category',
@@ -157,7 +171,8 @@ export class ChartComponent implements OnInit {
     return data.toLocaleString('es-ES',
       {
         style: 'currency',
-        currency: 'EUR'
+        currency: 'EUR',
+        minimumFractionDigits: 0
       });
   }
 }

@@ -35,7 +35,11 @@ import {AngularFirestore} from "@angular/fire/compat/firestore";
     NgxEchartsModule,
     AngularFireModule.initializeApp(environment.firebaseConfig)
   ],
-  providers: [AngularFirestore],
+  providers: [
+    AngularFirestore,
+  ],
+  exports: [
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule {
