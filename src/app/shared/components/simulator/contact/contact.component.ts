@@ -1,11 +1,14 @@
 import {Component, OnInit} from '@angular/core';
 import {FormBuilder, FormControl, FormGroup, Validators} from '@angular/forms';
 import Swal from 'sweetalert2';
+import {DataService} from "./services/data.service";
+import {ActivatedRoute} from "@angular/router";
 
 @Component({
   selector: 'app-contact',
   templateUrl: './contact.component.html',
-  styleUrls: ['./contact.component.scss']
+  styleUrls: ['./contact.component.scss'],
+  providers: [ DataService ]
 })
 export class ContactComponent implements OnInit {
   /**
@@ -15,13 +18,19 @@ export class ContactComponent implements OnInit {
    */
   contactForm: FormGroup | any;
   private isEmail = /\S+@\S+\.\S+/;
+  private area: number = 0;
+  private state: string = '';
 
-  constructor(private fb: FormBuilder) {
+  constructor(private fb: FormBuilder, private dataSvc:DataService, private route: ActivatedRoute,) {
     this.contactForm = this.fb.group({})
   }
 
   ngOnInit(): void {
     this.initForm()
+    this.route.queryParams.subscribe(params => {
+      this.area = params.area;
+      this.state = params.state;
+    })
   }
 
   private initForm(): void {
@@ -39,7 +48,7 @@ export class ContactComponent implements OnInit {
       console.log(this.contactForm.value);
       try {
         const formValue = this.contactForm.value;
-        // await this.dataSvc.onSaveContact(formValue);
+        await this.dataSvc.onSaveContact(formValue, this.area, this.state);
         Swal.fire('Message sent!!!', 'See soon!', 'success');
         this.contactForm.reset();
       } catch (error) {

@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "ppasolar-68738"
+  },
+  "targets": {
+    "ppasolar-68738": {
+      "hosting": {
+        "newPPASolar": [
+          "ppasolar-68738"
+        ]
+      }
+    }
   }
 }

@@ -12,6 +12,10 @@ import {ReactiveFormsModule} from "@angular/forms";
 import {HomeComponent} from "../shared/components/home/home.component";
 import {SimulatorComponent} from "../shared/components/simulator/simulator.component";
 import {NgxEchartsModule} from "ngx-echarts";
+import {AngularFireModule} from "@angular/fire/compat";
+import {environment} from "../../environments/environment";
+import {AngularFirestore} from "@angular/fire/compat/firestore";
+
 
 @NgModule({
   declarations: [
@@ -29,8 +33,9 @@ import {NgxEchartsModule} from "ngx-echarts";
     AppRoutingModule,
     ReactiveFormsModule,
     NgxEchartsModule,
+    AngularFireModule.initializeApp(environment.firebaseConfig)
   ],
-  providers: [],
+  providers: [AngularFirestore],
   bootstrap: [AppComponent]
 })
 export class AppModule {
