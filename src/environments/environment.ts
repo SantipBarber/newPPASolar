@@ -4,13 +4,13 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: "AIzaSyBNEt56KufZtlnIgTDVyKh_4LlMe-gTr5s",
-    authDomain: "ppasolar-5cf86.firebaseapp.com",
-    projectId: "ppasolar-5cf86",
-    storageBucket: "ppasolar-5cf86.appspot.com",
-    messagingSenderId: "520833040835",
-    appId: "1:520833040835:web:605ce437855a5bb9363d76",
-    measurementId: "G-T5C5TS5KLB"
+    apiKey: "AIzaSyA7y7SVexiuXCJ5-MZA7aRqbIzxbsBGh2A",
+    authDomain: "ppasolar-68738.firebaseapp.com",
+    projectId: "ppasolar-68738",
+    storageBucket: "ppasolar-68738.appspot.com",
+    messagingSenderId: "628845895168",
+    appId: "1:628845895168:web:1a6699879102637222c2e5",
+    measurementId: "G-67K3GYB041"
   }
 }
 /*

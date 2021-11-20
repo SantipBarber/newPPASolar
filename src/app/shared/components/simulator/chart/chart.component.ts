@@ -54,9 +54,9 @@ export class ChartComponent implements OnInit {
     this.ahorroAnual.toFixed(2)
     for (let rad of this.dataProvincia) {
       let ahorro = (((
-          (rad['n_dias'] * rad['Radiacion'] * (this.area * usableArea) / panelsPerUnitArea)) * efficiency) * this.precioEnergiaRed)
+          (rad['n_dias'] * rad['Radiacion'] * (usableArea) / panelsPerUnitArea)) * efficiency) * this.precioEnergiaRed)
         -
-        (((((rad['n_dias'] * rad['Radiacion'] * (this.area * usableArea) / panelsPerUnitArea)) * efficiency) * this.precioEnergiaPPA));
+        (((((rad['n_dias'] * rad['Radiacion'] * (usableArea) / panelsPerUnitArea)) * efficiency) * this.precioEnergiaPPA));
       this.radiacion.push(ahorro);
       this.ahorroAnual += ahorro;
     }

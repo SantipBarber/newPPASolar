@@ -29,7 +29,8 @@ export class ContactComponent implements OnInit {
       name: new FormControl('', [Validators.required]),
       lastName: new FormControl('', Validators.required),
       email: new FormControl('', [Validators.required, Validators.pattern(this.isEmail)]),
-      message: ['', [Validators.required, Validators.minLength(10), Validators.maxLength(250)]]
+      message: ['', [Validators.required, Validators.minLength(10), Validators.maxLength(250)]],
+      rules: ['', [Validators.requiredTrue]],
     })
   }
 
@@ -49,6 +50,10 @@ export class ContactComponent implements OnInit {
     } else {
       Swal.fire('Oooops...', 'Please check the form data', 'error');
     }
+  }
+
+  useRules(){
+    Swal.fire('Oooops...', 'Please check the form data', 'error');
   }
 
   isValidField(field: string): string {
