@@ -43,3 +43,22 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+angular.json
+package.json
+README.md
+database.rules.json
+.editorconfig
+tsconfig.spec.json
+storage.rules
+.firebaserc
+firebase.json
+firestore.indexes.json
+.browserslistrc
+package-lock.json
+firestore.rules
+karma.conf.js
+tsconfig.app.json
+tsconfig.json
+tslint.json
+/environments/
