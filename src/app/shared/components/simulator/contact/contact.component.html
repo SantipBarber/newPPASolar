@@ -9,18 +9,18 @@
       <div class="form-row">
         <!-- Línea 1 - Nombre-->
         <div class="row justify-content-between mb-3">
-          <div class="form-group col-sm-4">
+          <div class="col-sm-4">
             <label for="inputName" class="form-label">Nombre o persona de contacto:</label>
             <input [class]="isValidField('name')" type="text" class="form-control" id="inputName"
                    formControlName="name">
             <div class="invalid-feedback">
-          <span *ngIf="contactForm.get('name')?.errors?.required">
+          <span class="form-text" *ngIf="contactForm.get('name')?.errors?.required">
               Por favor, introduce tu nombre.
           </span>
             </div>
           </div>
           <!--     Línea 1 - Apellidos-->
-          <div class="form-group col-sm-8">
+          <div class="col-sm-8">
             <label for="inputLastName" class="form-label">Apellidos o Empresa:</label>
             <input type="text" class="form-control" id="inputLastName"
                    formControlName="lastName" [class]="isValidField('lastName')">
@@ -28,45 +28,45 @@
         </div>
         <!--      Línea 2 - Email y Teléfono -->
         <div class="row justify-content-between mb-3">
-          <div class="form-group col-sm-6 mb-3">
+          <div class="col-sm-6 mb-3">
             <label for="inputEmail" class="form-label">Email:</label>
             <input type="email" class="form-control" id="inputEmail"
                    formControlName="email" [class]="isValidField('email')">
             <div class="invalid-feedback">
-          <span *ngIf="contactForm.get('email')?.errors?.required">
+          <span class="form-text" *ngIf="contactForm.get('email')?.errors?.required">
               Por favor, introduce un email.
           </span>
             </div>
             <div class="invalid-feedback">
-          <span *ngIf="contactForm.get('email')?.errors?.pattern">
+          <span class="form-text" *ngIf="contactForm.get('email')?.errors?.pattern">
               Por favor, introduce un email válido.
           </span>
             </div>
           </div>
-          <div class="form-group col-sm-6 mb-3">
+          <div class="col-sm-6 mb-3">
             <label for="inputPhone" class="form-label">Teléfono (opcional):</label>
             <input type="phone" class="form-control" id="inputPhone"
                    formControlName="phone" [class]="isValidField('phone')">
           </div>
         </div>
         <!--      Línea 3 - Mensaje-->
-        <div class="form-group col-sm-12 mb-3">
+        <div class="col-sm-12 mb-3">
           <label for="inputMessage" class="form-label">Mensaje:</label>
           <textarea name="message" rows="4" class="form-control"
                     id="inputMessage" formControlName="message" [class]="isValidField('message')"></textarea>
           <div class="invalid-feedback">
-          <span *ngIf="contactForm.get('message')?.errors?.required">
+          <span class="form-text" *ngIf="contactForm.get('message')?.errors?.required">
               Por favor, introduce tu mensaje.
           </span>
           </div>
           <div class="invalid-feedback">
-          <span *ngIf="contactForm.get('message')?.errors?.minLength">
+          <span class="form-text" *ngIf="contactForm.get('message')?.errors?.minLength">
               Por favor, introduce al menos {{ contactForm.get('message')?.errors?.minLength }}
             caracteres.
           </span>
           </div>
           <div class="invalid-feedback">
-          <span *ngIf="contactForm.get('message')?.errors?.maxLength">
+          <span class="form-text" *ngIf="contactForm.get('message')?.errors?.maxLength">
               El mensaje es demasiado largo. Por favor, introduce como máximo {{ contactForm.get('message')?.errors?.maxLength }}
             caracteres.
           </span>
